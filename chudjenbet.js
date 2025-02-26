@@ -1,5 +1,7 @@
-
+//chudjenbet.com
 //JAVA SCRIPTS ONLY
+/********************************/
+
 var day = "27";
 var month = "2";
 var year = "2025";
@@ -9,8 +11,24 @@ var minute = "10";
 var second = "59";
 var milliseconds = "750";
 
-/******************************* */
-
+/********************************/
+//#1 = 970
+/********************************
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+*/
+/********************************/
 var date_time_shoot = new Date();
 date_time_shoot.setFullYear(year);
 date_time_shoot.setMonth(month-1);
